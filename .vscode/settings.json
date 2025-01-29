@@ -1,0 +1,64 @@
+{
+  "cSpell.words": [
+    "'s",
+    "activeforeground",
+    "Alyaa",
+    "borderwidth",
+    "columnspan",
+    "customtkinter",
+    "focuscolor",
+    "focusthickness",
+    "Gabriola",
+    "padx",
+    "pady",
+    "Reda",
+    "relheight",
+    "relx",
+    "rowspan",
+    "scrollregion",
+    "shelfs",
+    "textvariable",
+    "transparentcolor",
+    "Wessam",
+    "wraplength",
+    "yscrollcommand"
+  ],
+  "editor.tokenColorCustomizations": {
+    "comments": "#2fd479",
+    "variables": "#cdb4db",
+    "types": "#fa82b0",
+    "strings": "#ffafcc",
+    "numbers": "#bde0fe",
+    "functions": "#a2d2ff",
+    "keywords": "#dcc4fa",
+    "textMateRules": [
+      {
+        // operators like =,+
+        "scope": "keyword.operator",
+        "settings": {
+          "foreground": "#f9aaff"
+        }
+      },
+      {
+        // parameter
+        "scope": "variable.parameter",
+        "settings": {
+          "foreground": "#ffafcc"
+        }
+      },
+      {
+        // inherited class name (ctk.CTkFrame)
+        "scope": "entity.other.inherited-class",
+        "settings": {
+          "foreground": "#ffc8dd"
+        }
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {},
+  "editor.semanticTokenColorCustomizations": {
+    "rules": {
+      "variable": "#95c1ff"
+    }
+  }
+}
